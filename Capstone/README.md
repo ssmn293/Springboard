@@ -1,5 +1,10 @@
-# Introduction
+# Killed or Seriously Injured accidents in the city of Toronto
+
+## Introduction
 Toronto’s commute has often been considered one of the worst in the world. The city’s public transport system faces various criticisms as it has a much smaller subway network system compared to cities with similar size. Most of people in Toronto commute using cars as a result leading to frequent traffics and potential accidents. Toronto Police compiled data from 2006-2019 on Killed or Seriously Injured accidents in the city of Toronto over this time period. This project aims to identify the potential variables leading to a serious/fatal accident in Toronto.
+
+<b>Dataset:</b>https://data.torontopolice.on.ca/datasets/ksi/data 
+
 ## The purpose of the project
 The project use a dataset that was published publicly by the Toronto Police Service for serious accidents occurring over the period of 14 years from 2006 to 2019.
 The dataset has <b>14,457 rows</b> including detailed description of <b>5,690 accidents</b>. There are more rows than the number of accidents because each accident is recorded in the number of rows equivalent to the number of people involved (passengers, drivers, cyclists, pedestrians and etc.).
